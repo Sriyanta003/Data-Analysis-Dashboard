@@ -26,4 +26,5 @@ The Vrinda Store wants to create an annual sales report for 2022.So that, the ow
 
   ## Dashboard
 
-  
+  <img width="1862" height="656" alt="Screenshot 2025-08-15 194242" src="https://github.com/user-attachments/assets/0a9ea953-edd6-44c3-9782-86f3d3493c52" />
+
