@@ -10,7 +10,7 @@ The Vrinda Store wants to create an annual sales report for 2022.So that, the ow
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are the different order status in 2022?
-- List top 10 states contributingto the sales?
+- List top 10 states contributing to the sales?
 - Relation between age and gender based on number of orders.
 - Which channel is contributing maximum to the sales?
 - Highest selling category?
